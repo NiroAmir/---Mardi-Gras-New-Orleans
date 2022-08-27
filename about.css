@@ -1,0 +1,45 @@
+.container-fluid {
+            background-color: #8cbf3f;
+            border: 8px solid #f2cc0f;
+            border-radius: 50px 50px 50px 50px;
+        }
+
+        .nav-link {
+            font-size: 1.2rem;
+            font-family: 'Henny Penny';
+            border: 1px solid;
+            background-color: #9453a6;
+            margin: 5px;
+            border-radius: 0px 20px 20px 20px;
+            text-align: center;
+            font-weight: bold;
+            box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.8);
+        }
+
+        .nav-link:hover {
+            background-color: #f2cc0f;
+            text-decoration: underline;
+        }
+        .header{
+            text-align: center;
+        }
+        .aboutImage1{
+            float: right;
+            height: 150px;
+            width: 250px;
+        }
+
+          footer{
+    width: 100%;
+    text-align: center;
+    clear: both;
+    background-color: #8cbf3f;
+            border: 8px solid #f2cc0f;
+            border-radius: 50px 50px 50px 50px;
+            
+           
+  }
+  footer h1{
+    font-family:'Henny Penny' ;
+    font-weight: bold;
+  }
